@@ -2,7 +2,7 @@ The project done during the Practical Network defense was about securing a virtu
 
 Tools Used: Proxmox, OPNsense, IPsec, Graylog, Hardening;
 
-## Project includes:
+## Task Completed:
 
 - Network hardening  
 - Defense in depth  
