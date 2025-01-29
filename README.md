@@ -1,6 +1,6 @@
-The project done during the Practical Network defense was about securing a virtualized environment on Proxmox where two routers with OPNsense were deployed. Firewall rules were set via OPNsense, a VPN was created with OpenVPN, and SSH access was configured.
+The project done during the Practical Network defense was about securing a virtualized environment on Proxmox where two routers with OPNsense were deployed. Firewall rules were set via OPNsense, a VPN was created with OpenVPN, and SSH access was configured. An IDS was deployed and hardening operations performed.
 
-Tools Used: Kathara, iproute2, DHCP Server, SSH Server, OSPF, iptables, OpenVPN;
+Tools Used: Proxmox, OPNsense, IPsec, Graylog, Hardening;
 
 Project includes:
 -Network hardening
