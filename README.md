@@ -2,16 +2,17 @@ The project done during the Practical Network defense was about securing a virtu
 
 Tools Used: Proxmox, OPNsense, IPsec, Graylog, Hardening;
 
-Project includes:
--Network hardening
--Defense in depth
--Implementing IDS/IPS
--Implementing firewalls and virtual private networks (VPNs)
--Network monitoring
--Network traffic analysis
--Minimizing exposure (attack surface and vectors)
--Network access control (internal and external)
--Perimeter networks (demilitarized zones or DMZs) / Proxy Servers
--Network policy development and enforcement
--Network operational procedures
--Network attacks (e.g., session hijacking, man-in-the-middle)
+## Project includes:
+
+- Network hardening  
+- Defense in depth  
+- Implementation of IDS/IPS  
+- Configuration of firewalls and virtual private networks (VPNs)  
+- Network monitoring  
+- Network traffic analysis  
+- Minimizing exposure (attack surface and attack vectors)  
+- Network access control (both internal and external)  
+- Perimeter networks (demilitarized zones, DMZs) / Proxy servers  
+- Development and enforcement of network policies  
+- Network operational procedures  
+- Network attack mitigation (e.g., session hijacking, man-in-the-middle attacks)
